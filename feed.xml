@@ -1,31 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>云屋</title>
-    <link href="https://yunxia.github.io/feed.xml" rel="self" />
-    <link href="https://yunxia.github.io" />
-    <updated>2024-08-12T00:12:28+08:00</updated>
+    <link href="https://yunxiafadai.github.io/feed.xml" rel="self" />
+    <link href="https://yunxiafadai.github.io" />
+    <updated>2024-08-12T00:48:50+08:00</updated>
     <author>
         <name>云下</name>
     </author>
-    <id>https://yunxia.github.io</id>
+    <id>https://yunxiafadai.github.io</id>
 
     <entry>
-        <title>test</title>
+        <title>测试文章</title>
         <author>
             <name>云下</name>
         </author>
-        <link href="https://yunxia.github.io/test.html"/>
-        <id>https://yunxia.github.io/test.html</id>
+        <link href="https://yunxiafadai.github.io/ce-shi-wen-zhang.html"/>
+        <id>https://yunxiafadai.github.io/ce-shi-wen-zhang.html</id>
+        <media:content url="https://yunxiafadai.github.io/media/posts/2/IMG_20240429_194728.jpg" medium="image" />
+            <category term="测试"/>
 
-        <updated>2024-08-12T00:12:28+08:00</updated>
+        <updated>2024-08-12T00:46:56+08:00</updated>
             <summary>
                 <![CDATA[
-                    this is a test!
+                        <img src="https://yunxiafadai.github.io/media/posts/2/IMG_20240429_194728.jpg" alt="" />
+                    #这是一篇测试文章 乱七八糟的东西
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>this is a test!</p>
+                    <p><img src="https://yunxiafadai.github.io/media/posts/2/IMG_20240429_194728.jpg" class="type:primaryImage" alt="" /></p>
+                <p>#这是一篇测试文章
+<strong>乱七八糟的东西</strong></p>
             ]]>
         </content>
     </entry>

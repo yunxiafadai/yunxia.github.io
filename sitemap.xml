@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://yunxia.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://yunxiafadai.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://yunxia.github.io/</loc>
+<loc>https://yunxiafadai.github.io/</loc>
 </url>
 <url>
-<loc>https://yunxia.github.io/test.html</loc>
-<lastmod>2024-08-12T00:12:28+08:00</lastmod>
+<loc>https://yunxiafadai.github.io/ce-shi-wen-zhang.html</loc>
+<lastmod>2024-08-12T00:48:50+08:00</lastmod>
+<image:image>
+<image:loc>https://yunxiafadai.github.io/media/posts/2/IMG_20240429_194728.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 </urlset>
