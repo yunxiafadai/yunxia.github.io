@@ -3,10 +3,30 @@
     <title>云屋</title>
     <link href="https://yunxia.github.io/feed.xml" rel="self" />
     <link href="https://yunxia.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-08-12T00:12:28+08:00</updated>
     <author>
         <name>云下</name>
     </author>
     <id>https://yunxia.github.io</id>
 
+    <entry>
+        <title>test</title>
+        <author>
+            <name>云下</name>
+        </author>
+        <link href="https://yunxia.github.io/test.html"/>
+        <id>https://yunxia.github.io/test.html</id>
+
+        <updated>2024-08-12T00:12:28+08:00</updated>
+            <summary>
+                <![CDATA[
+                    this is a test!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this is a test!</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
