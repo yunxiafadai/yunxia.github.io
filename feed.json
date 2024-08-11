@@ -1,10 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "云屋",
+    "title": "云下小屋",
     "description": "",
     "home_page_url": "https://yunxiafadai.github.io",
     "feed_url": "https://yunxiafadai.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://yunxiafadai.github.io/media/website/20200616_015429000_iOS.jpg",
     "author": {
         "name": "云下"
     },
