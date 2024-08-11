@@ -3,7 +3,7 @@
     <title>云下小屋</title>
     <link href="https://yunxiafadai.github.io/feed.xml" rel="self" />
     <link href="https://yunxiafadai.github.io" />
-    <updated>2024-08-12T00:48:50+08:00</updated>
+    <updated>2024-08-12T01:12:13+08:00</updated>
     <author>
         <name>云下</name>
     </author>
@@ -23,14 +23,14 @@
             <summary>
                 <![CDATA[
                         <img src="https://yunxiafadai.github.io/media/posts/2/IMG_20240429_194728.jpg" alt="" />
-                    #这是一篇测试文章 乱七八糟的东西
+                    这是一篇测试文章 乱七八糟的东西
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://yunxiafadai.github.io/media/posts/2/IMG_20240429_194728.jpg" class="type:primaryImage" alt="" /></p>
-                <p>#这是一篇测试文章
-<strong>乱七八糟的东西</strong></p>
+                <h1 id="这是一篇测试文章">这是一篇测试文章</h1>
+<p><strong>乱七八糟的东西</strong></p>
             ]]>
         </content>
     </entry>
